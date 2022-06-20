@@ -1,10 +1,3 @@
-<head>
-  <style>
-  img{
-    display: inline-block;
-  }
-</style>
-</head>
 <h1 align='center'>Hello There! I'm Shivam 👋 </h1>
 <h2> I am a Data Scientist and a linux enthusiast. I am looking to collabrate on various projects😊. </h2>
 <h3> Some More things about me! </h3>
@@ -31,24 +24,25 @@
 </div>
 <hr>
 <h2>Tech Stack</h2>
-<img width="40" height="40" src="icons/python.png"> 
-<img width="40" height="40" src="icons/Cpp.png">
-<img width="120" height="50" src="icons/htmlcssjavascript.png">
-<img  width="40" height="40" src="icons/mysql.png">
-<img  width="40" height="40" src="icons/matlab.png">
-<img  width="40" height="40" src="icons/fish.png">
-<img  width="40" height="40" src="icons/julia.svg">
-<img  width="60" height="40" src="icons/numpy.png">
-<img  width="70" height="40" src="icons/pandas.png">
-<img  width="60" height="40" src="icons/matplotlib.png">
-<img  width="40" height="40" src="icons/seaborn.png">
-<img  width="60" height="40" src="icons/scikitlearn.png">
-<img  width="40" height="40" src="icons/OpenCV.png">
-<img  width="60" height="40" src="icons/spaCY.png">
-<img  width="50" height="40" src="icons/tensorflow.png">
-<img  width="60" height="40" src="icons/pytorch.png">
-<img  width="40" height="40" src="icons/flask.png">
-<img  width="50" height="40" src="icons/arduino.png">
-<img  width="50" height="50" src="icons/raspberrypi.png">
-
+  <p float='left'>
+<img width="40" height="40" src="icons/python.png" style='display: inline-block'> 
+<img width="40" height="40" src="icons/Cpp.png" style='display: inline-block'>
+<img width="120" height="50" src="icons/htmlcssjavascript.png" style='display: inline-block'>
+<img  width="40" height="40" src="icons/mysql.png" style='display: inline-block'>
+<img  width="40" height="40" src="icons/matlab.png" style='display: inline-block'>
+<img  width="40" height="40" src="icons/fish.png" style='display: inline-block'>
+<img  width="40" height="40" src="icons/julia.svg" style='display: inline-block'>
+<img  width="60" height="40" src="icons/numpy.png" style='display: inline-block'>
+<img  width="70" height="40" src="icons/pandas.png" style='display: inline-block'>
+<img  width="60" height="40" src="icons/matplotlib.png" style='display: inline-block'>
+<img  width="40" height="40" src="icons/seaborn.png" style='display: inline-block'>
+<img  width="60" height="40" src="icons/scikitlearn.png" style='display: inline-block'>
+<img  width="40" height="40" src="icons/OpenCV.png" style='display: inline-block'>
+<img  width="60" height="40" src="icons/spaCY.png" style='display: inline-block'>
+<img  width="50" height="40" src="icons/tensorflow.png" style='display: inline-block'>
+<img  width="60" height="40" src="icons/pytorch.png" style='display: inline-block'>
+<img  width="40" height="40" src="icons/flask.png" style='display: inline-block'>
+<img  width="50" height="40" src="icons/arduino.png" style='display: inline-block'>
+<img  width="50" height="50" src="icons/raspberrypi.png" style='display: inline-block'>
+  </p>
 
