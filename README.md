@@ -1,8 +1,10 @@
-<style>
+<head>
+  <style>
   img{
     display: inline-block;
   }
 </style>
+</head>
 <h1 align='center'>Hello There! I'm Shivam 👋 </h1>
 <h2> I am a Data Scientist and a linux enthusiast. I am looking to collabrate on various projects😊. </h2>
 <h3> Some More things about me! </h3>
